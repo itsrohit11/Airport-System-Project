@@ -1,8 +1,6 @@
 A small airport application made in java for an assignment in my OOP-1 class.
 
 
-![A gif of app demonstration](https://media.giphy.com/media/3oFzm1dXbZbyf3k80M/giphy.gif)<br>
-
 Features:<br>
 -View incoming and outgoing flights from a selected airport<br>
 -View configurations of desired flight either by double clicking it from list view or by searching it with it's unique flight Id<br>

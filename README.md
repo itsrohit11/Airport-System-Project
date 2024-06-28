@@ -21,5 +21,5 @@ Events<br>
 Exception Handling<br>
 OOP design and patterns<br>
 Function and Class visibility, 'static'
-ArrayList
+ArrayList.
 
